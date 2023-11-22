@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-5J9HMJL",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/rmuO20l86ZLumv4fWOHUz209bLjBvpcA8gWecmdmSwmExshEPa/",
+  "gitHubUrl": "https://github.com/amiradagdoug/self_hosted_runner",
+  "workFolder": "_work"
+}
